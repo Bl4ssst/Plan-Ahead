@@ -1,0 +1,96 @@
+{
+  "projects": [
+    {
+      "0": {},
+      "budget": "5435",
+      "name": "Igor R. Moreira",
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "0": {},
+      "name": "q",
+      "budget": "2",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "0": {},
+      "budget": "2",
+      "name": "q",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "0": {
+        "0": {},
+        "name": "igor",
+        "budget": "222",
+        "category": {
+          "id": "1",
+          "name": "Infra"
+        },
+        "cost": 0,
+        "services": [],
+        "id": 7
+      },
+      "name": "igor",
+      "budget": "222",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 7,
+      "services": [
+        {
+          "name": "k",
+          "cost": "7",
+          "description": "h",
+          "id": "4368149d-ee81-420e-83e7-ee8d172ac79f"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "0": {},
+      "name": "jkj",
+      "budget": "7",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 8
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
