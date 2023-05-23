@@ -15,8 +15,6 @@
 }
 
 .btn:hover {
-  background-color: #2a3260;
+  background-color: #2a3260; 
+  color: #ffc863;
 }
-  .btn:hover {
-    color: #ffc863;
-  }
